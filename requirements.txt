@@ -11,6 +11,7 @@ Django==4.1.7
 environ==1.0
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1667317341051/work
 idna==3.4
+image==1.5.33
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1672612343532/work
 ipykernel @ file:///D:/bld/ipykernel_1655369313836/work
 ipython @ file:///D:/bld/ipython_1677617262387/work
@@ -22,6 +23,7 @@ nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_16
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1673482170163/work
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1638334955874/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+Pillow==9.4.0
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1678652433955/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1677600924538/work
 psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
@@ -30,7 +32,6 @@ Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1672682006
 PyMySQL==1.0.2
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 python-environ==0.4.54
-pywin32==227
 pyzmq @ file:///C:/ci/pyzmq_1657615952984/work
 requests==2.28.2
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
